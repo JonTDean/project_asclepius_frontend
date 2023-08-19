@@ -34,7 +34,7 @@
 
 ## Overview
 
-`Hygieia Vision UI` serves as the frontend module for the PK/PD Data Visualization & Analysis Platform within the broader Project Hygieia initiative. Built with Next.js and TypeScript, this UI ensures a modern, performant, and user-friendly interface that seamlessly interacts with the backend via gRPC.
+`Hygieia Vision UI` serves as the frontend module for the PK/PD Data Visualization & Analysis Platform within the broader Project Asclepius initiative. Built with Next.js and TypeScript, this UI ensures a modern, performant, and user-friendly interface that seamlessly interacts with the backend via gRPC.
 
 ![Screenshot of Hygieia Vision UI](URL_TO_UI_SCREENSHOT)
 
